@@ -75,7 +75,7 @@ Random Forest achieved the best performance and was selected as the final model.
 
 The models were evaluated primarily using:
 
-- F1 Score
+- Weighted Score
 - Classification Report
 - Confusion Matrix
 

@@ -18,7 +18,7 @@ To build a classification model capable of identifying financial health levels b
 
 ```
 ├── index.ipynb                 # Main notebook containing the entire workflow
-├── visualisations_report.pdf   # Exported visualizations
+├── DataSprint2026_Visualisations   # Exported visualizations
 ├── README.md                   # Project documentation
 └──finaccess2024_datasprint     # Dataset (if publicly shareable)
 ```
